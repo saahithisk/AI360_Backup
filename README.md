@@ -13,11 +13,14 @@ The Tableau workbooks are the primary file to present the AI360 reports. The las
 
 #### Tableau Documentation
 **AI360 Project Delivery SOP_Tableau.pptx**
+
 Documentation on system setup, connection to live Snowflake data, and developer's notes.
 
 #### Backup Data
 **AI360_mockdata.csv**
+
 Same default data source that is embedded in the workbook.
 
 **AI Readiness Text_Pillar Text.xlsx**
+
 Same data that is embedded in the workbook with text content displayed in the report.
