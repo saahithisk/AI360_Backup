@@ -10,7 +10,7 @@ The customer facing side to this project exists on the Deloitte internal Tableau
 
 ## Get Started
 ### Tableau Workbooks
-Latest version: **AI360_Dashboard_Final_22-02-22.twbx**
+Latest version: **Qualtrics Mock Dash_unlinked.twbx**
 
 The Tableau workbooks are the primary file to present the AI360 reports. The lastest file was built using Tableau Desktop 2021.4 on a MacOS. This file opens by defaul with the embedded mock data file. Follow instructions in the documentation to connect to live data from Snowflake.
 
@@ -22,7 +22,7 @@ Documentation on system setup, connection to live Snowflake data, and developer'
 
 
 ### Backup Data
-**AI360_mockdata.csv**
+**AI360_Qualtrics_mockdata.csv**
 
 Same default data source that is embedded in the workbook.
 
